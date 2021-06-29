@@ -2,7 +2,8 @@
 I am Kia, a business management student of Brawijaya University who is also interested in programming!
 - 🔭 Working on several projects pointing out social and economic issues in Indonesia
 - 🌱 A machine learning graduate of Bangkit Academy 2021
-
+- 💗 Passionate about fashion and beauty
+- 🐱 Cat-lover ofc yeay
 <br>
 <br>
 
