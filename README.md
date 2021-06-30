@@ -19,8 +19,6 @@ I am Kia, a business management student of Brawijaya University who is also inte
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/dzaarsyd)
 <br>
 <br>
-
-![Profile views]![](https://komarev.com/ghpvc/?username=dzaarsyd&color=ff69b4)(https://gpvc.arturio.dev/dzaarsyd)
-
+![](https://komarev.com/ghpvc/?username=dzaarsyd&color=ff69b4)
 <br>
 <br>
