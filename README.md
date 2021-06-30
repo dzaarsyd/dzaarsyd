@@ -20,7 +20,7 @@ I am Kia, a business management student of Brawijaya University who is also inte
 <br>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/dzaarsyd&color=ff69b4)
+![Profile views]![](https://komarev.com/ghpvc/?username=dzaarsyd&color=ff69b4)(https://gpvc.arturio.dev/dzaarsyd)
 
 <br>
 <br>
