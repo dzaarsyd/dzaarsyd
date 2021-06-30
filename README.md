@@ -12,7 +12,6 @@ I am Kia, a business management student of Brawijaya University who is also inte
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://dzakiyyahrosyadi.medium.com/)
 [<img align="left" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />](https://pinkflowersforyou.wordpress.com/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dzakiyyahrosyadi@gmail.com)
-
 <br>
 <br>
 [<img align="left" alt="pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://id.pinterest.com/cakeyaarose/_saved/)
